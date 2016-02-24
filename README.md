@@ -63,7 +63,8 @@ Pro File/Dir Zipper ~ [ Smart ]
 Index Changer [ WHMCS ][ vBulletin ][ MYBB ]
 ```
 ```
-Add New Admin User [ WordPress ][ Joomla ][ ET CHAT ][ vBulletin ][ phpBB ][ whmcs ][ MyBB ][ Php Nuke ][ Dropal ][ SMF ]
+Add New Admin User [ WordPress ][ Joomla ][ ET CHAT ][ vBulletin ][ phpBB ]
+                   [ whmcs ][ MyBB ][ Php Nuke ][ Dropal ][ SMF ]
 ```
 ```
 Shell Injector [ WHMCS ][ vBulletin ][ MYBB ]
