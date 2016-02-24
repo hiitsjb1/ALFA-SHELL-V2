@@ -4,6 +4,7 @@
 
 Features:
 -------------------------------------------------------------------------------
+Block Google - Yahoo - Bing - Yandex And .... Crawlers
 Hidden Shell
 SQL Connection [MYSQL][POSTGRESQL]
 MYSQL Dumper [PHP][PERL]
