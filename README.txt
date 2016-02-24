@@ -4,9 +4,9 @@
 
 Features:
 -------------------------------------------------------------------------------
-SQL Connection
+SQL Connection [MYSQL][POSTGRESQL]
 Mysql Dumper [PHP][PERL]
-De/Encoder
+De/Encoder ~ [ Base64 Encode - base64 Decode- MD5 Hash - SHA1 Hash ... ]
 BackConnect [PHP][PERL][PYTHON][RUBY][WINDOWS]
 SSH2 ~ [ For Connect to Server Like Putty ]
 ZONE-H Mass Poster
