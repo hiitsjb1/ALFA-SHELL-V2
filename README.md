@@ -28,7 +28,7 @@ Index Changer [WHMCS][vBulletin][MYBB]
 Add New Admin User [WordPress][Joomla][ET CHAT][vBulletin][phpBB][whmcs][MyBB][Php Nuke][Dropal][SMF]
 Shell Injector [WHMCS][vBulletin][MYBB]
 PHP2XML Creator ~ [For vBulletin]
-CloudFlare ByPasser ~ [IP Grabber]
+CloudFlare ByPasser ~ [IP Grabber] 
 WHMCS Decoder 
 Symlink [Domains(Cpanel)][Whole Symlink(Cpanel/Direct-Admin)][Config Symlink][File Symlink][Config Fucker][Get User With Perl] 
 Mass Defacer ~ [ For Deface all Files Or Just Index Directory ]
