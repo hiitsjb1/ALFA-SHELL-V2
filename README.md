@@ -32,7 +32,8 @@ ZONE-H Mass Poster
 DDOSer ~ [ UDP DOS ]
 ```
 ```
-Bypasser [Create PHP.INI][Create .htaccess(Apache/LiteSpeed)][Read-Passwd][Read-Users][Get-User][Get-Domains] 
+Bypasser [ Create PHP.INI ][ Create .htaccess (Apache/LiteSpeed) ]
+         [ Read-Passwd ] [Read-Users ][ Get-User ][ Get-Domains ] 
 ```
 ```
 CGI SHELL [Perl][Python]
