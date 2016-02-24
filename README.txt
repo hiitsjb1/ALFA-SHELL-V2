@@ -1,11 +1,9 @@
-# ALFA-SHELL-V2
+# ALFA-SHELL-V2 ~ SoleVisible Shell V2
 
 # Coded By Sole Sad & Invisible
 
-# ALFA SHELL V2 ~ SoleVisible Shell V2
-
 Features:
- 
+-------------------------------------------------------------------------------
 SQL Connection
 Mysql Dumper [PHP][PERL]
 De/Encoder
