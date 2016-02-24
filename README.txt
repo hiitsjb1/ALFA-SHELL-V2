@@ -10,15 +10,13 @@ SQL Connection
 Mysql Dumper [PHP][PERL]
 De/Encoder
 BackConnect [PHP][PERL][PYTHON][RUBY][WINDOWS]
-SSH2
+SSH2 ~ [ For Connect to Server Like Putty ]
 ZONE-H Mass Poster
-DDOSer
-Bypassing htaccess [apache][LiteSpeed]
-Bypassing Read-Passwd/Users
-Bypassing Get-User/Domains
+DDOSer ~ [ UDP DOS ]
+Bypasser [Create PHP.INI][Create .htaccess(Apache/LiteSpeed)][Read-Passwd][Read-Users][Get-User][Get-Domains] 
 CGI SHELL [Perl][Python]
 CONSOLE SHELL ~ [ Run Command With Ajax Technology ]
-SSI SHELL
+SSI SHELL 
 MD5 Cracker
 Port Scanner
 Open BaseDir [PHP][PERL][PYTHON]
