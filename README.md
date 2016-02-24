@@ -78,7 +78,8 @@ CloudFlare ByPasser ~ [IP Grabber]
 WHMCS Decoder 
 ```
 ```
-Symlink [Domains(Cpanel)][Whole Symlink(Cpanel/Direct-Admin)][Config Symlink][File Symlink][Config Fucker][Get User With Perl]
+Symlink [ Domains (Cpanel )] [Whole Symlink (Cpanel/Direct-Admin) ][ Config Symlink ]
+        [ File Symlink ][ Config Fucker ][ Get User With Perl ]
 ```
 ```
 Mass Defacer ~ [ For Deface all Files Or Just Index Directories ]
@@ -93,7 +94,8 @@ File Searcher [Find All Writable Files][Find All Writable Dirs][Find All Readabl
 String Searcher ~ [ For Search in Files ]  
 ```
 ```
-Auto CMS Hijacker [vBulletin][WordPress][Joomla][WHMCS][MYBB][IPBOARD][PHPBB] ~ For Hijack Username And Password Users
+Auto CMS Hijacker [vBulletin][WordPress][Joomla][WHMCS][MYBB][IPBOARD][PHPBB] 
+~ For Hijack Username And Password Users
 ```
 ```
 Alfa News ~ [ For view the latest news about the program ]
