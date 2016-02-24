@@ -4,6 +4,7 @@
 
 Features:
 -------------------------------------------------------------------------------
+Hidden Shell
 SQL Connection [MYSQL][POSTGRESQL]
 MYSQL Dumper [PHP][PERL]
 De/Encoder ~ [ Base64 Encode - base64 Decode- MD5 Hash - SHA1 Hash ... ]
@@ -26,7 +27,6 @@ Shell Injector [WHMCS][vBulletin][MYBB]
 PHP2XML Creator ~ [For vBulletin]
 CloudFlare ByPasser ~ [IP Grabber] 
 WHMCS Decoder 
-Hidden Shell
 Symlink [Domains(Cpanel)][Whole Symlink(Cpanel/Direct-Admin)][Config Symlink][File Symlink][Config Fucker][Get User With Perl] 
 Mass Defacer ~ [ For Deface all Files Or Just Index Directories ]
 BruteForCer [CPANEL][DIRECT-ADMIN][FTP][PHPMYADMIN][MYSQL_CONNECT()][FTP_CONNECT()]
