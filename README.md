@@ -4,7 +4,7 @@
 
 ######Features:
 -------------------------------------------------------------------------------
-[http]
+[ http ]
 ```
 Block Google - Yahoo - Bing - Yandex And .... Crawlers 
 ```
