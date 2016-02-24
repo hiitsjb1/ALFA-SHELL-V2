@@ -5,7 +5,7 @@
 Features:
 -------------------------------------------------------------------------------
 SQL Connection [MYSQL][POSTGRESQL]
-Mysql Dumper [PHP][PERL]
+MYSQL Dumper [PHP][PERL]
 De/Encoder ~ [ Base64 Encode - base64 Decode- MD5 Hash - SHA1 Hash ... ]
 BackConnect [PHP][PERL][PYTHON][RUBY][WINDOWS]
 SSH2 ~ [ For Connect to Server Like Putty ]
