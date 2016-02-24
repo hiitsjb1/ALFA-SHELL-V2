@@ -4,7 +4,7 @@
 
 ######Features:
 -------------------------------------------------------------------------------
-[@Screen Shot](http://google.com)
+[@ScreenShot](https://raw.githubusercontent.com/solevisible/ALFA-SHELL-V2/master/Screen.png)
 ```
 Block Google - Yahoo - Bing - Yandex And .... Crawlers 
 ```
