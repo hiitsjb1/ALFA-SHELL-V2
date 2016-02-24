@@ -1,8 +1,8 @@
 # ALFA-SHELL-V2
 
-#Coded By Sole Sad & Invisible
+# Coded By Sole Sad & Invisible
 
-#ALFA SHELL V2 ~ SoleVisible Shell V2
+# ALFA SHELL V2 ~ SoleVisible Shell V2
 
 Features:
  
