@@ -16,7 +16,7 @@ DDOSer ~ [ UDP DOS ]
 Bypasser [Create PHP.INI][Create .htaccess(Apache/LiteSpeed)][Read-Passwd][Read-Users][Get-User][Get-Domains] 
 CGI SHELL [Perl][Python]
 CONSOLE SHELL ~ [ Run Command With Ajax Technology ]
-SSI SHELL ~ [ Run Command With Server Side Include [SSI] ( Apache ) ]
+SSI SHELL ~ [ Run Command With Server Side Includes [SSI] ( Apache ) ]
 MD5 Cracker
 Port Scanner
 Open BaseDir [PHP][PERL][PYTHON]
