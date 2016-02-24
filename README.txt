@@ -1,6 +1,6 @@
 # ALFA-SHELL-V2 ~ SoleVisible Shell V2
 
-# Coded By Sole Sad & Invisible
+# Coded By Sole Sad & Invisible From ALFA TEAM ~
 
 Features:
 -------------------------------------------------------------------------------
@@ -14,7 +14,7 @@ DDOSer ~ [ UDP DOS ]
 Bypasser [Create PHP.INI][Create .htaccess(Apache/LiteSpeed)][Read-Passwd][Read-Users][Get-User][Get-Domains] 
 CGI SHELL [Perl][Python]
 CONSOLE SHELL ~ [ Run Command With Ajax Technology ]
-SSI SHELL ~ [ Run Command With Server Side Include [ssi] ( apache ) ]
+SSI SHELL ~ [ Run Command With Server Side Include [SSI] ( Apache ) ]
 MD5 Cracker
 Port Scanner
 Open BaseDir [PHP][PERL][PYTHON]
