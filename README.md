@@ -1,6 +1,6 @@
 # ALFA-SHELL-V2 ~ SoleVisible Shell V2
 
-# Coded By Sole Sad & Invisible From ALFA TEAM ~
+<font color="red"># Coded By Sole Sad & Invisible From ALFA TEAM ~</font>
 
 Features:
 -------------------------------------------------------------------------------
