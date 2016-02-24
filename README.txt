@@ -2,7 +2,7 @@
 
 # Coded By Sole Sad & Invisible
 
-<font color=red>Features:</font>
+Features:
 -------------------------------------------------------------------------------
 SQL Connection
 Mysql Dumper [PHP][PERL]
