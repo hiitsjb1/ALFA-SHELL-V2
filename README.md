@@ -1,6 +1,6 @@
 ## ALFA-SHELL-V2 ~ SoleVisible Shell V2
-#version: 2.0.1
-#3/3/2016
+######version: 2.0.1
+######Edite Date: 3/3/2016
 ######Coded By Sole Sad & Invisible From ALFA TEAM ~
 
 ######Features:
